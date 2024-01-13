@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\noroi\Desktop\Uni\Progr\KR\dinosaur_game\dinosaur_game\main.cpp(52,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\noroi\Desktop\Uni\Progr\KR\dinosaur_game\dinosaur_game\main.cpp(244,21): warning C4305: +=: усечение из "double" в "float"
+C:\Users\noroi\Desktop\Uni\Progr\KR\dinosaur_game\dinosaur_game\main.cpp(245,26): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+  dinosaur_game.vcxproj -> C:\Users\noroi\Desktop\Uni\Progr\KR\dinosaur_game\x64\Debug\dinosaur_game.exe
